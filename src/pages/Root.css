@@ -1,0 +1,14 @@
+/* Root.css */
+
+.root-container {
+    background-color: #9a8f7e; /* Warm background color, you can adjust this */
+    min-height: 100vh; /* Ensure the container takes at least the full height of the viewport */
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .content-container {
+    flex: 1; /* Allow the content to take the remaining vertical space */
+    padding: 20px;
+  }
+  

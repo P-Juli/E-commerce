@@ -1,0 +1,30 @@
+/* HomePage.css */
+
+.home-page {
+    padding: 20px;
+    background-color: #3c9ead;
+    border-radius: 48px;
+    border: 5px solid;
+  }
+  
+  .welcome-message {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .product-list {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .product-container {
+    margin: 10px;
+    padding: 10px;
+    /* border: 1px solid #ffffff;
+    border-radius: 8px; */
+    /* border-radius: 5px; */
+    /* border: 0.5px solid; */
+  }
+  
